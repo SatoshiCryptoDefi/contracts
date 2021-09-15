@@ -1,7 +1,7 @@
 pragma solidity 0.6.12;
 
 // based on PanCakeSwap SmartChef contract
-// added functionnalities by the satoshihunters's devs
+// added functionnalities by the satoshicrypto's devs
 //
 // - possibility to update reward per block
 // - possibility to update end bonus block
